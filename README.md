@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on JavaScript/Python
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chaudhary-kunal/)
 
-[![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Briber162)](https://github.com/anuraghazra/github-readme-stats)
+
